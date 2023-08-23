@@ -531,7 +531,7 @@ function canvas1(){
   snap: "frame",
   ease: `none`,
   scrollTrigger: {
-    scrub: 0.15,
+    scrub: 0.5,
     trigger: `#page18`,
     //   set start end according to preference
     start: `top top`,

@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: SF PRO DISPLAY;
   }
-  html,
+ 
   body {
     height: 100%;
     width: 100%;
@@ -465,6 +465,7 @@
       color: #434343c7;
       font-weight: 500;
       top: 0%;
+      font-size:  3.2vh;
   }
   #page16>h2>span{
       color: #000;
